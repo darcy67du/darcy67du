@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ✨ HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Darcy%20Du&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20👨‍💻&descSize=28&descColor=9CA6FF&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Darcy%20DUSHIME&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer&descSize=28&descColor=9CA6FF&descAlignY=60&descAlign=50" width="100%"/>
 
 <!-- ✨ TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Full-Stack+and+Mobile+Developer;Always+learning%2C+always+building." />
 
 </div>
 
 <!-- ✨ ABOUT ME -->
 <h2 align="center">🧑‍💻 About Me</h2>
 
-> **Hi there! I'm Darcy** 👋 — a passionate Full-Stack & Mobile Developer who loves turning ideas into real, working products.
+> **Hi there! I'm Darcy** 👋 — a passionate Full-Stack and Mobile Developer who loves turning ideas into real, working products.
 > I build clean and scalable applications across the web and mobile, from Flutter apps to FastAPI backends, and I'm always
 > exploring new tools and frameworks. When I'm not coding, I'm sketching designs in Figma or testing APIs in Postman.
 
@@ -71,7 +71,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>☁️ Cloud & Deployment</h3>
+      <h3>☁️ Cloud and Deployment</h3>
       <p>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1e1e2e"/>
