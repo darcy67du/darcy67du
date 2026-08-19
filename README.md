@@ -121,7 +121,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=darcy67du&theme=tokyonight&hide_border=true&border_radius=8"/>
+<img src="https://streak-stats.demolab.com/?user=darcy67du&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 
 <br/>
 
