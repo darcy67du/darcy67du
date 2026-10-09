@@ -140,7 +140,10 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=darcy67du&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117"/>
+<!-- Activity graph: the shared github-readme-activity-graph.vercel.app host returns HTTP 402 (over quota),
+     so it can't render. Deploy your own copy (see steps in chat), then uncomment and replace YOUR-PROJECT:
+<img width="100%" src="https://YOUR-PROJECT.vercel.app/graph?username=darcy67du&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117"/>
+-->
 
 <br/>
 
