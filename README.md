@@ -21,7 +21,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=54&section=header&text=TECH%20STACK&fontSize=28&fontColor=ffffff&strokeColor=58A6FF&strokeWidth=1" width="50%"/></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp,dart,flutter,html,css,nodejs,fastapi,mysql,mongodb,sqlite,firebase,git,github,figma,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp,dart,flutter,html,css,nodejs,fastapi,mysql,mongodb,sqlite,firebase,git,github,figma,postman,pytest,netlify&perline=11" />
 </p>
 
 <br/>
@@ -53,7 +53,9 @@
       </p>
       <h3>⚙️ Backend</h3>
       <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1e1e2e"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1e1e2e"/>
       </p>
     </td>
   </tr>
@@ -62,6 +64,7 @@
       <h3>📱 Mobile Development</h3>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e1e2e"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1e1e2e"/>
       </p>
       <h3>🗄️ Databases</h3>
       <p>
@@ -77,11 +80,8 @@
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1e1e2e"/>
       </p>
-      <h3>🛠️ Tools</h3>
+      <h3>🖥️ Servers</h3>
       <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e2e"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=1e1e2e"/>
       </p>
@@ -94,6 +94,12 @@
         <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1e1e2e"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1e2e"/>
       </p>
+      <h3>🛠️ Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e2e"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1e1e2e"/>
+      </p>
     </td>
     <td align="center" width="50%">
       <h3>🎨 Design</h3>
@@ -104,6 +110,23 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ✨ PROJECTS -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=54&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff&strokeColor=58A6FF&strokeWidth=1" width="50%"/></p>
+
+<div align="center">
+
+<a href="https://github.com/darcy67du?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/></a>
+
+<!-- Pin your best repos on your profile, or add cards like this:
+<a href="https://github.com/darcy67du/REPO_NAME">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=darcy67du&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=8"/>
+</a>
+-->
+
+</div>
 
 <br/>
 
@@ -149,7 +172,15 @@
 
 Feel free to reach out — I'm always open to collaborating on exciting projects.
 
-<br/>
+<br/><br/>
+
+<a href="https://github.com/darcy67du"><img src="https://img.shields.io/badge/GitHub-darcy67du-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/></a>
+<!-- Add your links:
+<a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e"/></a>
+-->
+
+<br/><br/>
 
 <h3>👀 Profile Visitors</h3>
 
